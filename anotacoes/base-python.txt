@@ -1,0 +1,11 @@
+* Python é um linguagem interpretada, o que significa que o código é executado linha por linha sem necessidade de compilação explícita.
+* Tipagem dinâmica: as variáveis não precisam ser declaradas com um tipo específico
+* 
+
+
+
+
+
+
+
+
