@@ -10,7 +10,9 @@ print(nome)
 print(ano_lancamento)
 
 # função para verificar o tipo de dado das variáveis
-print(type(nome))
-print(type(ano_lancamento))
-print(type(nota_filme))
-print(type(incluso_plano))
+"""
+    print(type(nome))
+    print(type(ano_lancamento))
+    print(type(nota_filme))
+    print(type(incluso_plano))
+"""
