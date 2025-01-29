@@ -1,7 +1,6 @@
 import sqlite3
 
 # conectando no banco de dados
-
 conn = sqlite3.connect('titulo.db')
 
 # criando o cursor (permite que realize operações dentro do banco de dados)
