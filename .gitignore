@@ -1,3 +1,6 @@
 .DS_Store
 .vscode/
 .venv/
+.idea/
+
+db/pgsql/__pycache__
